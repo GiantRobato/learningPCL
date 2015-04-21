@@ -5,21 +5,21 @@ This project is meant to learn how to use the Point Cloud Library (PCL). The mai
 
 Some things I learned are:
 
-*CMAKE is awesome
-*That I need to learn how to use CMAKE more
-*You have to create a build directory and call from the build directory:
+* CMAKE is awesome
+* That I need to learn how to use CMAKE more
+* You have to create a build directory and call from the build directory:
 
 ```
 cmake ..
 ```
 
-*this generates the CMAKE files and allows you to run:
+* this generates the CMAKE files and allows you to run:
 
 ```
 make <program name>
 ```
 
-*The program works as expected with an output of the following:
+* The program works as expected with an output of the following:
 
 ```
 Saved 5 data points to test_pcd.pcd.
